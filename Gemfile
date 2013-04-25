@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
-gem 'bootstrap-sass', '> 2.0.2'
+gem 'bootstrap-sass', '~> 2.3.1.0'
 
 group :development, :test do
   gem 'sqlite3', '~> 1.3.5'
